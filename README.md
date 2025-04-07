@@ -1,10 +1,11 @@
 # Fasty Frog (Code-Review)
 
 ## 🚀 Overview
-This is my personal project. After a long day of studying, having a game to unwind and release stress is essential for students like me. That's why I created this simple yet challenging game, designed to help everyone relax and have fun. Whether you're looking to take a break or just need a quick escape, this game is here to offer some lighthearted entertainment.
+This is my personal project. After a long day of studying, having a game to unwind and release stress is essential for students like me. That's why I created this simple yet challenging game, designed to help everyone relax and have fun. Whether you're looking to take a break or just need a quick escape, this game is here to offer some lighthearted entertainment.This is my personal project. After a long day of studying, having a game to unwind and release stress is essential for students like me. That's why I created this simple yet challenging game, designed to help everyone relax and have fun. Whether you're looking to take a break or just need a quick escape, this game is here to offer some lighthearted entertainment.
 
 >⚠️ **Note**: This repository contains only the core source code. Deployment files and some proprietary assets have been excluded for confidentiality.
 <br>
+
 > For experience the game, visit this [Unity Game WebGL](https://play.unity.com/en/games/8c7d16ae-5553-4ab0-bfa8-d02b1ffac09e/fasty-frog)
 
 ## 🛠️ Tech Stack
